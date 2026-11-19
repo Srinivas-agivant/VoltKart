@@ -5,7 +5,6 @@
 VoltKart is a modern, high-performance laptop retail web application and conversational shopping assistant. It enables shoppers to explore verified laptop models, search and filter by brand/price/RAM/processor, compare models side-by-side, and ask customer support questions (returns, refunds, warranty, shipping) with **100% factual grounding** and a **strict zero-hallucination policy** backed by structured MongoDB collections and unstructured PDF knowledge documents.
 
 ---
-
 ## 🌟 Key Features
 
 ### 🛒 1. Modern E-Commerce Storefront
