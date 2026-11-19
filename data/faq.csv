@@ -1,0 +1,17 @@
+
+faq_id,category,question,answer,keywords
+FAQ01,product,What laptop brands are available?,"VoltKart currently offers laptops from Lenovo, HP, Dell, ASUS and Acer.","brands;available brands;laptop brands"
+FAQ02,product,Can I upgrade the RAM or storage later?,"Upgrade options depend on the laptop model. Some models support RAM or SSD upgrades, while others have soldered components.","upgrade;RAM;storage;SSD"
+FAQ03,product,Do all laptops come with Windows pre-installed?,"No. Operating systems vary by model. Check the product listing for Windows, Linux or operating system details.","Windows;operating system;OS;Linux"
+FAQ04,product,How can I choose a laptop for gaming or programming?,"For gaming, consider a dedicated GPU, a capable processor and at least 16 GB RAM. For programming, consider a modern processor, 16 GB RAM or more and an SSD.","gaming;programming;developer;laptop selection"
+FAQ05,product,Are laptop specifications and prices accurate?,"Product prices and specifications are maintained in the VoltKart product catalogue. The catalogue is the reference for recommendations and comparisons.","price;specifications;product details;accuracy"
+FAQ06,delivery,How long does delivery take?,"Standard delivery is estimated at 3–7 business days, depending on the delivery location.","delivery time;shipping;arrival;dispatch"
+FAQ07,delivery,Do you offer free delivery?,"Yes. VoltKart provides free standard delivery on all laptop orders.","free delivery;shipping charges;delivery fee"
+FAQ08,orders,Can I cancel an order after placing it?,"Orders can be cancelled before they are shipped. Once shipped, cancellation may not be available. Contact customer support for assistance.","cancel order;order cancellation"
+FAQ09,orders,Can I change my delivery address after ordering?,"Address changes are allowed only before the order is dispatched. Contact customer support as soon as possible.","change address;delivery address;modify order"
+FAQ10,payment,What payment methods are accepted?,"VoltKart supports UPI, debit cards, credit cards and net banking.","payment;UPI;credit card;debit card;net banking"
+FAQ11,payment,Is EMI available?,"EMI availability depends on the payment provider and the customer's bank. Check the payment options displayed at checkout.","EMI;installments;monthly payment"
+FAQ12,payment,Is cash on delivery available?,"Cash on delivery is currently not supported. Customers can use the available online payment methods.","COD;cash on delivery;cash payment"
+FAQ13,returns,What is your return policy?,"Customers can request a return within 7 days of delivery if the laptop is damaged, defective, or the wrong product was delivered. The product must meet the applicable return conditions.","return;refund;replacement;return policy"
+FAQ14,returns,What if I receive a damaged laptop?,"Please report the issue within 48 hours of delivery and provide supporting photographs or videos. The support team will review the request.","damaged laptop;defective product;broken laptop"
+FAQ15,warranty,Do laptops come with a warranty?,"Warranty coverage depends on the manufacturer and laptop model. Refer to the product listing or manufacturer warranty information for exact coverage.","warranty;guarantee;manufacturer warranty"

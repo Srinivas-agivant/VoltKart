@@ -1,0 +1,26 @@
+product_id,name,brand,price,processor,ram,storage,display,graphics,weight,battery_life,warranty,usage_type
+VK-LAP-001,VoltBook Air 13,VoltKart,38999,Intel Core i3 12th Gen,8GB DDR4,256GB NVMe SSD,13.3 inch FHD IPS 60Hz,Intel UHD Graphics,1.25 kg,9.5 Hours,1 Year Onsite,student
+VK-LAP-002,VoltBook Slim 14,VoltKart,44999,AMD Ryzen 5 5500U,8GB DDR4,512GB NVMe SSD,14.0 inch FHD Anti-Glare,AMD Radeon Vega 7,1.38 kg,8.0 Hours,1 Year Onsite,student
+VK-LAP-003,VoltBook Pro 15,VoltKart,54999,Intel Core i5 12450H,16GB DDR4,512GB NVMe SSD,15.6 inch FHD IPS 144Hz,Intel Iris Xe Graphics,1.65 kg,7.5 Hours,2 Years Onsite,coding
+VK-LAP-004,VoltBook Max 16,VoltKart,68999,AMD Ryzen 7 5800H,16GB DDR4,1TB NVMe SSD,16.0 inch 2K IPS 120Hz,AMD Radeon Graphics,1.75 kg,8.5 Hours,2 Years Onsite,coding
+VK-LAP-005,VoltStrike Gaming 15,VoltKart,62999,Intel Core i5 12500H,16GB DDR4,512GB NVMe SSD,15.6 inch FHD IPS 144Hz,NVIDIA GeForce RTX 3050 4GB,2.15 kg,5.5 Hours,1 Year Onsite,gaming
+VK-LAP-006,VoltStrike Pro Gaming,VoltKart,84999,AMD Ryzen 7 6800H,16GB DDR5,1TB NVMe SSD,15.6 inch QHD IPS 165Hz,NVIDIA GeForce RTX 4060 8GB,2.30 kg,5.0 Hours,2 Years Onsite,gaming
+VK-LAP-007,ThinkPad E14 Gen 4,Lenovo,59990,AMD Ryzen 5 5625U,16GB DDR4,512GB NVMe SSD,14.0 inch FHD IPS Anti-Glare,AMD Radeon Graphics,1.59 kg,9.0 Hours,3 Years Premier Onsite,business
+VK-LAP-008,IdeaPad Slim 3,Lenovo,36990,Intel Core i3 1215U,8GB DDR4,512GB NVMe SSD,15.6 inch FHD,Intel UHD Graphics,1.63 kg,7.0 Hours,1 Year Onsite,student
+VK-LAP-009,IdeaPad Gaming 3,Lenovo,57990,AMD Ryzen 5 5600H,16GB DDR4,512GB NVMe SSD,15.6 inch FHD 120Hz,NVIDIA GeForce GTX 1650 4GB,2.25 kg,5.0 Hours,1 Year Onsite,gaming
+VK-LAP-010,Yoga Slim 7 Carbon,Lenovo,98990,Intel Core i7 1360P,16GB LPDDR5,1TB NVMe SSD,13.3 inch 2.5K OLED 90Hz,Intel Iris Xe Graphics,0.98 kg,11.0 Hours,2 Years Premium Care,business
+VK-LAP-011,HP 15s Everyday,HP,41990,Intel Core i3 1215U,8GB DDR4,512GB NVMe SSD,15.6 inch FHD Micro-Edge,Intel UHD Graphics,1.69 kg,7.5 Hours,1 Year Onsite,student
+VK-LAP-012,HP Pavilion 14,HP,58990,Intel Core i5 1335U,16GB DDR4,512GB NVMe SSD,14.0 inch FHD IPS Touch,Intel Iris Xe Graphics,1.41 kg,8.5 Hours,1 Year Onsite,coding
+VK-LAP-013,HP Victus Gaming 15,HP,64990,AMD Ryzen 5 5600H,16GB DDR4,512GB NVMe SSD,15.6 inch FHD 144Hz,NVIDIA GeForce RTX 3050 4GB,2.29 kg,5.5 Hours,1 Year Onsite,gaming
+VK-LAP-014,HP Envy x360 2-in-1,HP,82990,Intel Core i5 1335U,16GB LPDDR5,512GB NVMe SSD,15.6 inch OLED Touch,Intel Iris Xe Graphics,1.78 kg,9.0 Hours,2 Years Onsite,business
+VK-LAP-015,Dell Inspiron 3520,Dell,37990,Intel Core i3 1215U,8GB DDR4,512GB NVMe SSD,15.6 inch FHD 120Hz,Intel UHD Graphics,1.65 kg,6.5 Hours,1 Year Onsite,student
+VK-LAP-016,Dell Inspiron 14 Plus,Dell,69990,Intel Core i7 13620H,16GB DDR5,1TB NVMe SSD,14.0 inch 2.2K IPS Anti-Glare,Intel Iris Xe Graphics,1.60 kg,8.0 Hours,1 Year Onsite,coding
+VK-LAP-017,Dell G15 5530 Gaming,Dell,72990,Intel Core i5 13450HX,16GB DDR5,512GB NVMe SSD,15.6 inch FHD 120Hz,NVIDIA GeForce RTX 3050 6GB,2.65 kg,4.5 Hours,1 Year Onsite,gaming
+VK-LAP-018,Dell Latitude 7440,Dell,112990,Intel Core i7 1365U,32GB LPDDR5,1TB NVMe SSD,14.0 inch FHD+ ComfortView+,Intel Iris Xe Graphics,1.33 kg,10.5 Hours,3 Years ProSupport,business
+VK-LAP-019,Asus Vivobook 15,Asus,34990,Intel Core i3 1115G4,8GB DDR4,512GB NVMe SSD,15.6 inch FHD 60Hz,Intel UHD Graphics,1.70 kg,6.0 Hours,1 Year Onsite,student
+VK-LAP-020,Asus Vivobook Pro 15,Asus,62990,AMD Ryzen 5 5600H,16GB DDR4,512GB NVMe SSD,15.6 inch FHD OLED 600nits,NVIDIA GeForce RTX 2050 4GB,1.80 kg,7.0 Hours,1 Year Onsite,coding
+VK-LAP-021,Asus TUF Gaming A15,Asus,67990,AMD Ryzen 7 7735HS,16GB DDR5,512GB NVMe SSD,15.6 inch FHD 144Hz,NVIDIA GeForce RTX 4050 6GB,2.20 kg,6.0 Hours,1 Year Onsite,gaming
+VK-LAP-022,Asus Zenbook 14 OLED,Asus,89990,Intel Core Ultra 7 155H,16GB LPDDR5X,1TB NVMe SSD,14.0 inch 3K OLED 120Hz,Intel Arc Graphics,1.20 kg,12.0 Hours,2 Years Onsite,business
+VK-LAP-023,Apple MacBook Air M1,Apple,69900,Apple M1 8-Core CPU,8GB Unified,256GB SSD,13.3 inch Retina Display,Apple 7-Core GPU,1.29 kg,15.0 Hours,1 Year Limited,student
+VK-LAP-024,Apple MacBook Air M2,Apple,89900,Apple M2 8-Core CPU,8GB Unified,512GB SSD,13.6 inch Liquid Retina,Apple 10-Core GPU,1.24 kg,16.0 Hours,1 Year Limited,coding
+VK-LAP-025,Apple MacBook Pro 14,Apple,169900,Apple M3 Pro 11-Core CPU,18GB Unified,512GB SSD,14.2 inch Liquid Retina XDR 120Hz,Apple 14-Core GPU,1.61 kg,17.0 Hours,1 Year Limited,business

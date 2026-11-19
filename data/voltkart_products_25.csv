@@ -1,0 +1,26 @@
+﻿product_id,store,model,price_inr,processor,processor_brand,processor_cores,ram_gb,storage_gb,storage_type,display_inches,resolution,graphics,dedicated_graphics,weight_kg,estimated_battery_hours,operating_system,warranty,rating_out_of_5,usage_category
+VK001,VoltKart,AeroBook 14,42999,Intel Core i5-1235U,Intel,10,16,512,SSD,14.0,1920 x 1080,Intel Iris Xe,False,1.42,10,Windows 11 Home,1 Year,4.3,Student
+VK002,VoltKart,StudyMate 15,34999,AMD Ryzen 5 5500U,AMD,6,8,512,SSD,15.6,1920 x 1080,AMD Radeon Graphics,False,1.75,8,Windows 11 Home,1 Year,4.1,Student
+VK003,VoltKart,Campus Pro 14,51999,AMD Ryzen 5 7530U,AMD,6,16,512,SSD,14.0,1920 x 1200,AMD Radeon Graphics,False,1.48,11,Windows 11 Home,2 Years,4.5,Student
+VK004,VoltKart,NoteLite 13,38999,Intel Core i3-1315U,Intel,6,8,512,SSD,13.3,1920 x 1080,Intel UHD Graphics,False,1.19,9,Windows 11 Home,1 Year,4.0,Student
+VK005,VoltKart,Everyday 15,45999,Intel Core i5-1335U,Intel,10,16,512,SSD,15.6,1920 x 1080,Intel Iris Xe,False,1.68,9,Windows 11 Home,1 Year,4.2,Student
+VK006,VoltKart,OfficeFlex 14,56999,Intel Core i5-1340P,Intel,12,16,512,SSD,14.0,1920 x 1200,Intel Iris Xe,False,1.39,10,Windows 11 Pro,2 Years,4.4,Office
+VK007,VoltKart,WorkMate 15,62999,AMD Ryzen 7 7730U,AMD,8,16,1024,SSD,15.6,1920 x 1080,AMD Radeon Graphics,False,1.72,9,Windows 11 Pro,2 Years,4.5,Office
+VK008,VoltKart,BizBook 14,48999,Intel Core i5-1235U,Intel,10,16,512,SSD,14.0,1920 x 1080,Intel Iris Xe,False,1.45,10,Windows 11 Pro,1 Year,4.2,Office
+VK009,VoltKart,DeskPro 16,74999,Intel Core i7-1360P,Intel,12,16,1024,SSD,16.0,1920 x 1200,Intel Iris Xe,False,1.89,8,Windows 11 Pro,2 Years,4.6,Office
+VK010,VoltKart,TravelBook 13,67999,Intel Core i7-1355U,Intel,10,16,512,SSD,13.3,1920 x 1200,Intel Iris Xe,False,1.16,12,Windows 11 Home,2 Years,4.6,Office
+VK011,VoltKart,Creator 15,89999,AMD Ryzen 7 7840HS,AMD,8,16,1024,SSD,15.6,2560 x 1440,NVIDIA GeForce RTX 4050 6GB,True,2.15,6,Windows 11 Home,2 Years,4.5,Creator
+VK012,VoltKart,CreatorStudio 16,119999,Intel Core i7-13700H,Intel,14,32,1024,SSD,16.0,2560 x 1600,NVIDIA GeForce RTX 4060 8GB,True,2.25,5,Windows 11 Pro,2 Years,4.7,Creator
+VK013,VoltKart,DesignBook 14,82999,Intel Core i7-1360P,Intel,12,16,1024,SSD,14.0,1920 x 1200,Intel Iris Xe,False,1.52,9,Windows 11 Pro,2 Years,4.4,Creator
+VK014,VoltKart,GameForce 15,84999,AMD Ryzen 5 7640HS,AMD,6,16,512,SSD,15.6,1920 x 1080,NVIDIA GeForce RTX 4050 6GB,True,2.3,5,Windows 11 Home,1 Year,4.4,Gaming
+VK015,VoltKart,GameForce 16,104999,Intel Core i7-13620H,Intel,10,16,1024,SSD,16.0,2560 x 1600,NVIDIA GeForce RTX 4060 8GB,True,2.42,5,Windows 11 Home,2 Years,4.6,Gaming
+VK016,VoltKart,ArenaBook 15,69999,AMD Ryzen 5 7535HS,AMD,6,16,512,SSD,15.6,1920 x 1080,NVIDIA GeForce RTX 3050 6GB,True,2.18,6,Windows 11 Home,1 Year,4.2,Gaming
+VK017,VoltKart,Pulse Gaming 17,129999,Intel Core i7-13700HX,Intel,16,32,1024,SSD,17.3,2560 x 1440,NVIDIA GeForce RTX 4070 8GB,True,2.85,4,Windows 11 Home,2 Years,4.8,Gaming
+VK018,VoltKart,LiteBook 14,57999,AMD Ryzen 5 7530U,AMD,6,16,512,SSD,14.0,1920 x 1200,AMD Radeon Graphics,False,1.28,12,Windows 11 Home,2 Years,4.5,Portable
+VK019,VoltKart,AirLite 13,72999,Intel Core i5-1340P,Intel,12,16,512,SSD,13.3,2560 x 1600,Intel Iris Xe,False,1.08,13,Windows 11 Home,2 Years,4.7,Portable
+VK020,VoltKart,FeatherPro 14,94999,Intel Core i7-1360P,Intel,12,16,1024,SSD,14.0,2880 x 1800,Intel Iris Xe,False,1.22,12,Windows 11 Pro,2 Years,4.7,Portable
+VK021,VoltKart,ValueBook 15,29999,AMD Ryzen 3 7320U,AMD,4,8,256,SSD,15.6,1920 x 1080,AMD Radeon 610M,False,1.68,7,Windows 11 Home,1 Year,3.9,Student
+VK022,VoltKart,SmartStudy 14,47999,Intel Core i5-1235U,Intel,10,8,512,SSD,14.0,1920 x 1080,Intel Iris Xe,False,1.39,10,Windows 11 Home,1 Year,4.1,Student
+VK023,VoltKart,ProWork 15,79999,AMD Ryzen 7 7840U,AMD,8,32,1024,SSD,15.6,1920 x 1200,AMD Radeon 780M,False,1.74,10,Windows 11 Pro,2 Years,4.6,Office
+VK024,VoltKart,MaxCompute 16,109999,Intel Core i7-13700H,Intel,14,32,1024,SSD,16.0,2560 x 1600,NVIDIA GeForce RTX 4050 6GB,True,2.1,6,Windows 11 Pro,3 Years,4.7,Creator
+VK025,VoltKart,Everyday Air 14,53999,AMD Ryzen 5 7530U,AMD,6,16,512,SSD,14.0,1920 x 1080,AMD Radeon Graphics,False,1.36,11,Windows 11 Home,2 Years,4.3,Office
